@@ -1,5 +1,7 @@
 # Maple Mono Better Chinese
 本仓库是<a href="https://font.subf.dev">Maple Mono</a>的Fork，旨在在中英子宽依旧2:1的情况下缩小中文字距。
+<img width="731" height="169" alt="image" src="https://github.com/user-attachments/assets/19289471-ce6e-41a5-80cf-69cf49cd6d66" />
+
 以下为原介绍。
 
 
