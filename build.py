@@ -78,7 +78,7 @@ def check_ftcli():
 
 WIDTH_MAP = {
     "default": 600,
-    "narrow": 550,
+    "narrow": 600,
     "slim": 500,
 }
 
@@ -205,7 +205,7 @@ def parse_args(args: list[str] | None = None):
         type=str,
         choices=WIDTH_MAP.keys(),
         default="default",
-        help="Set glyph width: default (600), narrow (550), slim (500)",
+        help="Set glyph width: default (600), narrow (600), slim (500)",
     )
     feature_group.add_argument(
         "--nf-mono",
