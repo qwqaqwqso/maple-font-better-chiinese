@@ -77,9 +77,9 @@ def check_ftcli():
 # =========================================================================================
 
 WIDTH_MAP = {
-    "default": 500,
-    "narrow": 500,
-    "slim": 500,
+    "default": 400,
+    "narrow": 400,
+    "slim": 400,
 }
 
 
@@ -401,7 +401,7 @@ class FontConfig:
             "scale_factor": (1.0, 1.0),
         }
         self.glyph_width = 600
-        self.glyph_width_cn_narrow = 1000
+        self.glyph_width_cn_narrow = 800
         self.use_normal_preset = False
         self.ttfautohint_param = {}
         self.line_height = 1.0
